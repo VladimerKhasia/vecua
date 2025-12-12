@@ -1,0 +1,5 @@
+jax 
+optax 
+numpy 
+pandas 
+matplotlib  
