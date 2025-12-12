@@ -38,6 +38,7 @@ reducing parameter counts by orders of magnitude (e.g., 840 parame-
 ters vs. 4.2 million for 3D grids) and converging 2-3× faster than
 implicit neural representations. This work establishes a new paradigm for
 memory-efficient, spectrally accurate scientific machine learning.
+
 ---
 
 ### Experiment Manifest
