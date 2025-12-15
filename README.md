@@ -11,9 +11,9 @@ Representation"</strong>
 </p>
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17916218.svg)](https://doi.org/10.5281/zenodo.17916218)
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17916218.svg)](https://doi.org/10.5281/zenodo.17916218) -->
 
-
+[![arXiv](https://img.shields.io/badge/arXiv-2512.11776-b31b1b.svg)](https://arxiv.org/abs/2512.11776)
 
 ## Abstract
 
@@ -69,6 +69,20 @@ python AVC.py
 If you utilize this code or the concepts presented in **AVC** for your research, please cite the following paper:
 
 ```bibtex
+@misc{khasia2025avc_arxiv,
+  author        = {Khasia, Vladimer},
+  title         = {The Adaptive Vekua Cascade: A Differentiable Spectral-Analytic Solver for Physics-Informed Representation},
+  year          = {2025},
+  eprint        = {2512.11776},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.LG},
+  url           = {https://arxiv.org/abs/2512.11776},
+  note          = {Preprint}
+}
+```
+
+<!--
+```bibtex
 @misc{khasia2025avc_zenodo,
   author       = {Khasia, Vladimer},
   title        = {The Adaptive Vekua Cascade: A Differentiable Spectral-Analytic Solver for Physics-Informed Representation},
@@ -79,7 +93,7 @@ If you utilize this code or the concepts presented in **AVC** for your research,
   note         = {Preprint}
 }
 ```
-
+ -->
 
 
 
